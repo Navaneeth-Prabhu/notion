@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1702024547590,
+      "tag": "0000_daffy_ezekiel_stane",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1702035776400,
+      "tag": "0001_right_king_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1702038267240,
+      "tag": "0002_smiling_krista_starr",
+      "breakpoints": true
+    }
+  ]
+}
